@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>How and rich an impartial account of the proceedings at the late election of burgesses for the burrough of Southwark : wherein are discovered the palpable forgeries of Elephant Smith in his pretended relation of the same / by one of the loyal inhabitants of that antient burrough.</title>
+            <author>One of the loyal inhabitants of that antient burrough.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44617</idno>
+            <idno type="STC">Wing H2957</idno>
+            <idno type="STC">ESTC R17424</idno>
+            <idno type="EEBO-CITATION">11862093</idno>
+            <idno type="OCLC">ocm 11862093</idno>
+            <idno type="VID">50031</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44617)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50031)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 535:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>How and rich an impartial account of the proceedings at the late election of burgesses for the burrough of Southwark : wherein are discovered the palpable forgeries of Elephant Smith in his pretended relation of the same / by one of the loyal inhabitants of that antient burrough.</title>
+                  <author>One of the loyal inhabitants of that antient burrough.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Elephant Smith is Cave Underhill. Cf. BM.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Underhill, Cave, 1634-1710?</term>
+               <term>Howe, Richard, --  Sir, 1650 or 51-1730.</term>
+               <term>Rich, Peter, --  Sir, 1630-1692.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50031:1"/>
+            <pb facs="tcp:50031:1" rendition="simple:additions"/>
+            <head>HOW and RICH: AN IMPARTIAL ACCOUNT of the Proceedings at the late Election of Burgeſſes for the Burrough of <hi>Southwark, Wherein are Diſcovered,</hi> The palpable Forgeries of <hi>Elephant Smith</hi> in his pretended Relation of the ſame.</head>
+            <byline>By one of the Loyal Inhabitants of that antient Burrough.</byline>
+            <p>OUR Bromidgam-Proteſtant Intelligencer having not only obtruded himſelf upon us, at the time of our Election, as ſe<g ref="char:EOLhyphen"/>veral others did unſent for, but alſo concerned himſelf ſo far about our Pro<g ref="char:EOLhyphen"/>ceedings in that affair, as to arraign the wiſdom of our Burrough, to beſpatter our Repreſentatives, and as an utter Abherrer of Truth and Modeſty, to pub<g ref="char:EOLhyphen"/>liſh in his Print ſo many notorious Falſhoods in fa<g ref="char:EOLhyphen"/>vour of one Party, I have thought it a juſt debt to my Neighbours to give the World a true and impartial Account of the whole matter.</p>
+            <p>The Gentlemen who were our Burgeſſes in the two foregoing Parliaments, had acquitted them<g ref="char:EOLhyphen"/>ſelves ſo well, that 'twas generally expected that they would have been unanimouſly deſired to accept of the Truſt again; but ſome Strangers and thoſe no ſmall—thinking it ſeems, that they were fit<g ref="char:EOLhyphen"/>ter to chooſe for us, than we for our ſelves, made all the Intereſt they could for two other Perſons. So that the Comp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>titors were Sir <hi>Richard How,</hi> K<hi rend="sup">nt.</hi> and <hi>Peter Rich,</hi> 
+               <abbr>Esq</abbr> 
+               <hi>Edward Smith,</hi> 
+               <abbr>Esq</abbr> Steward of the Burrough-Court, and <hi>Slingsby Bethel,</hi> 
+               <abbr>Esq</abbr> one of the preſent Sheriffs of <hi>London.</hi>
+            </p>
+            <p>Sir <hi>Rich. How</hi> and Mr. <hi>Rich,</hi> are Gentlemen of approved Loyalty and Integrity, publickly known to be true <hi>Engliſh</hi> Proteſtants, antient Inhabitants in the Neighbourhood, and liberal Benefactors to the Poor of our Burrough, and who have always quitted themſelves with great Reputation in con<g ref="char:EOLhyphen"/>ſiderable Offices of Truſt, both Civil and Military, and faithfully diſcharged their Duty as our Repre<g ref="char:EOLhyphen"/>ſentatives in the two former Parliaments.</p>
+            <p>Mr. <hi>Smith,</hi> is a perſon not altogether unknown to the Inhabitants, having long enjoyed a profitable place among them, and one of Loyalty enough to recommend him to the good opinion of the better ſort of the Burghers, had not himſelf and his Inte<g ref="char:EOLhyphen"/>reſt been tack'd to Mr. <hi>Bethel,</hi> who was indeed ſufficiently eminent for the Figure he made in the late Revolutions, but now no otherwiſe known to the Electors, but by the ſingular Menage of his pre<g ref="char:EOLhyphen"/>ſent Office, and by the Perſons who ſolicited for him and accompanied him to the place of Election.</p>
+            <p>
+               <hi>Thurſday, Feb.</hi> 10. being the day appointed for the Choice, the Writ was read at St. <hi>Margarets</hi> Hill, and though a Poll was demanded for <hi>How</hi> and <hi>Rich,</hi> yet a View was afterwards earneſtly inſiſted on by the D. of <hi>Buckingham,</hi> and other the Adherents to <hi>Smith</hi> and <hi>Bethel,</hi> but this was generally oppoſed and decried: not but that the Friends of <hi>How</hi> and <hi>Rich</hi> might have ſafely ventured on a View, had they had an Elephant or any other rare ſhow, as the others had a Star, to attract the gazing Mobile; but becauſe it could not decide the Election, nor anſwer any other good purpoſe, the Bailiff adjourned to the <hi>Artillery-Ground,</hi> the Place before appointed and mutually agreed upon for the Poll. However his Grace being reſolv'd to have a View, though but of himſelf and party, drew up into St. <hi>George</hi>'s-Fields, where as themſelves report, there appeared above 8000 men for <hi>Smith</hi> and <hi>Bethel;</hi> though the truth is, when it came to Trial, there were not 3000 on both ſides. At the opening of the Poll, the Bailiff, to ſhew his own Impartiality, and to prevent all future miſunderſtandings, deſired the Competi<g ref="char:EOLhyphen"/>tors to agree among themſelves upon the methods of Proceeding. Upon which it was conſented to between them, and that Agreement endorſed upon the Poll-Book, that when the Polling-Place, which would contain about 150, was full, the door ſhould be ſhut, and no others admitted till all thoſe within were poll'd off and diſcharg'd at a Back-door. And after ſome diſcourſe of the Qualifications of the Electors, it was agreed, that, according to antient uſage, all Houſe-keepers, not receiving Alms, ſhould be p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llable. And that no others might be received, care was taken by mutual conſent, that the Beadles and other Officers of the reſpective Pariſhes (and what other perſons any of the Candidates did de<g ref="char:EOLhyphen"/>ſire) ſhould be preſent to take notice of all that offered themſelves to the Poll, to whom all other neceſſary Interrogatories were ſtrictly put, before the Queſtion <hi>Who are you for?</hi> Moreover by the care and appointment of the Neighbouring Juſtices of the Peace, and the Bailiff, all the Conſtables of the Bur<g ref="char:EOLhyphen"/>rough attended in and about the Polling place, to prevent any Tumult or diſorder.</p>
+            <p>In this method all things were impartially and peaceably carried, till on <hi>Tueſday</hi> follow<g ref="char:EOLhyphen"/>ing about Twelve of the Clock the Poll became dry, of which ſeveral Proclamations being made,
+<pb facs="tcp:50031:2"/>
+as well within doors as without, the Bailiff by conſent of all the Candidates cloſed the Book, and adjourn'd to the Talbot-Inn, where the Book being caſt up, the numbers for each (according to <hi>Elephant-Smith</hi>'s own Accompt, which with the number of the aſcending ſteps to the door of the Polling-houſe, is all the material Truth in the whole Narrative) were as follweth, <hi>How,</hi> 1622, <hi>Rich,</hi> 1616. <hi>Smith,</hi> 1347. <hi>Bethel,</hi> 1334.</p>
+            <p>Now that <hi>How</hi> and <hi>Rich</hi> had the majority on their ſide upon the ſcore of pure merit, will appear from the conſideration, that the other two had in many other reſpects the advantage of them; For</p>
+            <p n="1">I. The Bailiff of the Burrough having a depen<g ref="char:EOLhyphen"/>dence upon Mr. <hi>Smith,</hi> the Steward of the Court-Leet, it is to be ſuppoſed, that if he would have been partial (which to do him right, we acknow<g ref="char:EOLhyphen"/>ledge he was not) it would have been in favour of Mr. <hi>Smith</hi> and his Partner. And the Bailiffs men which <hi>Elephant Smith</hi> takes notice of, are alſo the Stewards Bailiffs, and hold their places at his plea<g ref="char:EOLhyphen"/>ſure, ſo that, as they hope for bread, they are bound to ſerve his Intereſt; whereas <hi>How</hi> and <hi>Rich</hi> could hope for no more than Juſtice from any of them.</p>
+            <p n="2">II. If I ſhould write after <hi>Elephant Smith</hi>'s Copy, and truſt to Common Fame, I might tell you of a famous diſſenting Proteſtant Divine in the Neigh<g ref="char:EOLhyphen"/>bourhood, who a little before the Election laid him<g ref="char:EOLhyphen"/>ſelf forth with great zeal to ſtir up his Auditors to a liberal contribution for ſome ſecret ſervice which he did not think fit to name, which ſecret ſervice is by the ſame Fame ſaid to be the purchaſing the Votes of the <hi>Sober Party,</hi> with whom dry Money is a bet<g ref="char:EOLhyphen"/>ter Argument than Ale. But to take leave of that known Jilt, Common Fame, <hi>Elephant Smith</hi>'s Miſtris; it is certain</p>
+            <p n="3">III. That <hi>How</hi> and <hi>Rich,</hi> in the execution of their Office of Juſtices of the Peace for the County of <hi>Surrey,</hi> had diſobliged a great part of the Priſoners of the King-Ben<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, by being ſomewhat nice in in<g ref="char:EOLhyphen"/>terpreting the Ten-pound-Act, and refuſing to diſ<g ref="char:EOLhyphen"/>charge them by wholeſale; which is a ſufficient proof of the Knavery of <hi>Elephant Smith</hi>'s attributing their ſucceſs to the Votes of Beggers and Priſoners.</p>
+            <p n="4">IV. And laſtly, Amongſt the many gentle and ſimple ſticklers who ſwore, drank and damn'd for the carrying on the C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſe, <hi>Elephant Smith</hi> himſelf, overcharg'd with abundance of Ale and Zeal, very fluently diſembogu'd himſelf among a Croud of Electors, as follweth, <hi>Ah, Sirs, what d'ye mean? Is the Devil in your hearts and the Pope in your bellies? Would ye have your houſes fired about your Ears again? I ſpeak to you that are for</hi> How <hi>and</hi> Rich, <hi>Is the Devil in your hearts and the Pope in your Bellies,</hi> &amp;c. <hi>I ſpeak I ſay, to you that are for</hi> How <hi>and</hi> Rich. Which being delivered with a diſmal face, and in a Tone (which 'tis the Printers unhappineſs that he hath not Muſick-notes to expreſs) it muſt needs be a great diſadvantage to thoſe Gentlemen to have ſuch powerful Rhetorick engaged againſt them, and no<g ref="char:EOLhyphen"/>thing but their own merits to plead for them.</p>
+            <p>Notwithſtanding all which diſadvantages it ap<g ref="char:EOLhyphen"/>pears by the foremention'd Computation, that <hi>How</hi> and <hi>Rich</hi> were duly choſen Members for our Bur<g ref="char:EOLhyphen"/>rough, and they will accordingly be return'd.</p>
+            <p>It muſt not be conceal'd, that there were many groſs ſlanders invented by Knaves and divulged by Fools to weaken the Intereſt of <hi>How</hi> and <hi>Rich,</hi> which as Chriſtians they forgive, and as Gentlemen they deſpiſe.</p>
+            <p>Whereas mighty Complaints are made on the other ſide of ſome ſlight Indecencies unavoidable in ſuch Popular Elections, and for which the body of the Burrough is not accountable.</p>
+            <p>Who could help it if ſome Waggs, by the Emble<g ref="char:EOLhyphen"/>matical Black-Pudding and the famiſh'd Mouſe, in<g ref="char:EOLhyphen"/>tended an abuſive Repreſentation of the Gentleman-Strangers Nine-penny Ordinary abroad, and his empty Cupboard at home?</p>
+            <p>He muſt thank himſelf, if by threatning to pull the King's Watermans Coat over his Ears, he pro<g ref="char:EOLhyphen"/>vok'd him to reply, <hi>Ay, Sir, ſo perhaps you would my Maſters too, if it were in your Power.</hi>
+            </p>
+            <p>'Twas unlucky, that the Bailiff, by being ſo even in his management of the Poll as to interrogate the High-Sheriff of <hi>Surrey,</hi> whether he had a who<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e houſe to himſelf ſhould give occaſion to a By-ſtander to remark, that there was a High-Sheriff preſent that was no Houſe-keeper.</p>
+            <p>The rumor of his being married to <hi>Nell Gwyn</hi> did never obtain to his prejudice and had ended with the Poll, had not he afterwards taken ſo much pains at the Amſterdam-Coffee-houſe to purge himſelf in that matter.</p>
+            <p>But certainly ſuch petty inſtances of Our-Town-Raillery cannot bear out an Appeal, ſo much talk'd of, to the Wiſdom and Gravity of ſo Auguſt an Aſ<g ref="char:EOLhyphen"/>ſembly as the Houſe of Commons; though perhaps the faireſt pretence towards it lies on the ſide of the Inmates, who may with ſome colour complain that they were rejected at the Poll, when one of their own Character was admitted a Competitor, and who as the Kings Subjects in common, (and having Reli<g ref="char:EOLhyphen"/>gion and Lives and Wives, as well as other men) may deſire to be repreſented by one, whom perhaps they conceive obliged to endeavour the Relaxation of the ſeverity of the Laws at preſent in force againſt them.</p>
+            <p>But I at firſt deſign'd only a bare Relation of Mat<g ref="char:EOLhyphen"/>ter of Fact, and therefore to obſerve the Rule of leaving off when I have done, I ſhall trouble the Reader no f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rther.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>T. M.</hi> 1681.</p>
+            <pb facs="tcp:50031:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
